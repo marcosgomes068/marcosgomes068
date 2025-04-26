@@ -1,6 +1,17 @@
+<p align="center">
+  <img src="SuperMarioWorld.png" alt="Super Mario World" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/mario/images/2/2e/Mario_SMB_Sprite.png" alt="Mario Sprite" width="120" />
+</p>
 
 <h1 align="center">🎮 SuperDevBros</h1>
 <p align="center"><i>Minha Jornada no Mundo da Programação</i></p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png" alt="Super Mario Bros Capa" width="350" />
+</p>
 
 ---
 
