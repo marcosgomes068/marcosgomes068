@@ -1,16 +1,53 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/mario/images/2/2e/Mario_SMB_Sprite.png" alt="Mario Sprite" width="120" />
+</p>
 
-<!--
-**marcosgomes068/marcosgomes068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🎮 SuperDevBros</h1>
+<p align="center"><i>Minha Jornada no Mundo da Programação</i></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png" alt="Super Mario Bros Capa" width="350" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Missão
+
+Bem-vindo(a) ao **SuperDevBros**!  
+Aqui cada repositório é uma nova fase na minha evolução como desenvolvedor.   
+**Python**, **Flask**, **SQL**, **HTML**, **CSS** e **JS** são meus power-ups nessa aventura! 🚀🧩
+
+---
+
+## 🎯 Power-Ups que Coletei
+
+- 🐍 Python
+- 🌐 Flask
+- 🗄️ SQL
+- 🎨 HTML5 & CSS3
+- ⚡ JavaScript
+- ☁️ Deploy básico (Render, Vercel)
+
+---
+
+## 🏆 Conquistas
+
+- 🥇 Primeiro CRUD completo com Flask.
+- 🥈 Site responsivo do zero usando só HTML/CSS/JS.
+- 🥉 Banco de dados funcional com integração via Python.
+
+---
+
+## 📩 Contato
+
+**Vamos construir juntos!**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 💬 [E-mail](mailto:seuemail@gmail.com)
+- 📂 [Portfólio Completo](https://seuportfolio.com)
+
+---
+
+<blockquote>
+  <b>"Não importa quantos obstáculos, sempre há outro salto para frente!"</b> – SuperDevBros 🏁
+</blockquote>
