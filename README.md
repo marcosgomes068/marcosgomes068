@@ -1,20 +1,3 @@
-<p align="center">
-  <img src="SuperMarioWorld.png" alt="Super Mario World" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/mario/images/2/2e/Mario_SMB_Sprite.png" alt="Mario Sprite" width="120" />
-</p>
-
-<h1 align="center">🎮 SuperDevBros</h1>
-<p align="center"><i>Minha Jornada no Mundo da Programação</i></p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png" alt="Super Mario Bros Capa" width="350" />
-</p>
-
----
-
 ## 🚀 Missão
 
 Bem-vindo(a) ao **SuperDevBros**!  
@@ -30,7 +13,6 @@ Aqui cada repositório é uma nova fase na minha evolução como desenvolvedor.
 - 🗄️ SQL
 - 🎨 HTML5 & CSS3
 - ⚡ JavaScript
-- ☁️ Deploy básico (Render, Vercel)
 
 ---
 
@@ -46,9 +28,9 @@ Aqui cada repositório é uma nova fase na minha evolução como desenvolvedor.
 
 **Vamos construir juntos!**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 💬 [E-mail](mailto:seuemail@gmail.com)
-- 📂 [Portfólio Completo](https://seuportfolio.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gomesgabriel068)
+- 💬 [E-mail](mailto:marcosgabrielgomes105@gmail.com)
+
 
 ---
 
