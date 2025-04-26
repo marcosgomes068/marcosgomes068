@@ -20,7 +20,7 @@ Aqui cada repositório é uma nova fase na minha evolução como desenvolvedor.
 
 - 🥇 Primeiro CRUD completo com Flask.
 - 🥈 Site responsivo do zero usando só HTML/CSS/JS.
-- 🥉 Banco de dados funcional com integração via Python.
+- 🥉 Desenvolvimento completo de um dashboard de criptomoedas em tempo real.
 
 ---
 
