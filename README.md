@@ -1,58 +1,117 @@
-<h1 align="center">Olá, eu sou o Marcos 👨‍💻</h1>
+# Portfólio de Marcos Gomes
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAD&width=435&lines=Desenvolvedor+Backend;Amante+de+Machine+Learning;Foco+em+Segurança+da+Informação" alt="Typing SVG" />
-</p>
+Bem-vindo ao meu portfólio! Sou desenvolvedor com experiência em backend, inteligência artificial, segurança da informação e integração de sistemas. Aqui você encontra uma visão clara, minimalista e envolvente dos meus principais projetos, com foco em impacto e inovação.
 
 ---
 
-### 🚀 Sobre mim
+## Meus Projetos
 
-Sou apaixonado por tecnologia, desenvolvimento backend e segurança da informação.  
-Gosto de criar soluções que combinam automação, inteligência de dados e boas práticas de arquitetura de software.
+### 1. Dashboard em Tempo Real de Cripto com Python
+**Descrição:**  
+Desenvolvi um dashboard interativo que exibe dados em tempo real de criptomoedas utilizando Python. Com bibliotecas como Dash ou Streamlit, o painel oferece visualizações dinâmicas, como gráficos de preços e médias móveis, ideais para investidores que precisam de informações rápidas e precisas. APIs como CoinGecko ou CryptoCompare são usadas para obter dados atualizados, garantindo um acompanhamento em tempo real do mercado.
 
-Atualmente, estou desenvolvendo projetos com:
-- **Python**, **Node.js**, **Flask**, **Express**
-- **scikit-learn**, **Dash**, **SQLAlchemy**
-- **Nmap**, **Burp Suite**, **testes ofensivos**
-- **TypeScript**, **React**, **Flask**
+**Tecnologias:**  
+Python, Dash/Streamlit, APIs de criptomoedas (ex. CoinGecko)
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 2. Bot de Atendimento Delivery WhatsApp com IA da Cohere
+**Descrição:**  
+Criei um bot de atendimento automatizado para serviços de delivery, integrado ao WhatsApp e utilizando a IA da Cohere para entender e responder às necessidades dos clientes de forma natural e eficiente. O bot pode gerenciar pedidos, fornecer atualizações de status e até processar pagamentos, melhorando a experiência do usuário e otimizando operações. A Cohere AI permite respostas personalizadas e inteligentes, elevando a qualidade do atendimento.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,ts,flask,git,linux,mongodb,sqlite,react,nmap&theme=light" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosgomes068&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomes068&layout=compact&theme=radical" />
-</div>
+**Tecnologias:**  
+Node.js, Cohere AI, WhatsApp API
 
 ---
 
-### 🌎 Conecte-se comigo
+### 3. Framework de Detecção de Intenções com Autoaprendizado
+**Descrição:**  
+Desenvolvi um framework que utiliza técnicas de aprendizado de máquina para detectar intenções de usuários a partir de texto ou fala. O sistema se aprimora continuamente, tornando-se mais preciso ao longo do tempo, essencial para criar chatbots e assistentes virtuais de alta qualidade. Métodos como redes neurais recorrentes com atenção ou modelos pré-treinados como BERT podem ser usados para extrair características de sequências e estruturas de sentenças.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Gomes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Visualizar-00ffad?style=for-the-badge&logo=github)](https://github.com/marcosgomes068)
-
----
-
-### 🎮 3D Animado (fun)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+**Tecnologias:**  
+Python, scikit-learn, TensorFlow/PyTorch
 
 ---
 
-### ☕ Café + Código sempre
+### 4. E-commerce Completo com C++ e ASP Core .NET
+**Descrição:**  
+Construí uma plataforma de e-commerce completa, combinando o desempenho do C++ com a versatilidade do ASP Core .NET. O C++ é usado para partes críticas de desempenho, enquanto o ASP Core .NET gerencia a interface web e a lógica de negócios. A aplicação inclui catálogo de produtos, carrinho de compras, processamento de pagamentos e gerenciamento de usuários, tudo otimizado para uma experiência fluida.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
-</p>
+**Tecnologias:**  
+C++, ASP Core .NET, SQL Server
+
+---
+
+### 5. Sistema de Login API de Autenticação Segura com Node.js
+**Descrição:**  
+Desenvolvi uma API de autenticação segura utilizando Node.js, incorporando práticas avançadas de segurança como OAuth e JWT. O sistema garante que apenas usuários autorizados acessem recursos protegidos, protegendo dados sensíveis e mantendo a integridade da aplicação. Medidas como rate limiting e validação de entrada são implementadas para prevenir ataques comuns.
+
+**Tecnologias:**  
+Node.js, Express, Passport.js, JWT
+
+---
+
+## Detalhes dos Projetos
+
+### Dashboard em Tempo Real de Cripto com Python
+Ferramenta essencial para investidores acompanharem o mercado de criptomoedas em tempo real, utilizando Python para visualizações interativas e dados de APIs confiáveis.
+
+**Impacto:**  
+Integra dados financeiros com visualizações dinâmicas, oferecendo suporte à tomada de decisão rápida no mercado cripto.
+
+---
+
+### Bot de Atendimento Delivery WhatsApp com IA da Cohere
+Solução inovadora para automação de atendimento via WhatsApp, com IA avançada para conversas naturais e eficientes.
+
+**Impacto:**  
+Otimiza o atendimento ao cliente, reduz tempo de resposta e aumenta a satisfação do usuário.
+
+---
+
+### Framework de Detecção de Intenções com Autoaprendizado
+Sistema que identifica e aprende continuamente intenções em texto ou fala, melhorando chatbots e assistentes virtuais.
+
+**Impacto:**  
+Criação de sistemas inteligentes que se adaptam a novos dados e desafios de linguagem.
+
+---
+
+### E-commerce Completo com C++ e ASP Core .NET
+Plataforma robusta e escalável, unindo alto desempenho e funcionalidades modernas para comércio eletrônico.
+
+**Impacto:**  
+Demonstra expertise em integração de tecnologias de alto desempenho com frameworks web modernos.
+
+---
+
+### Sistema de Login API de Autenticação Segura com Node.js
+API segura, com práticas modernas de autenticação e prevenção de ataques, essencial para qualquer sistema web.
+
+**Impacto:**  
+Reflete a importância da segurança e confiabilidade em aplicações web modernas.
+
+---
+
+## Resumo das Tecnologias
+
+| Projeto                        | Tecnologias Principais                         |
+|--------------------------------|-----------------------------------------------|
+| Dashboard de Cripto            | Python, Dash/Streamlit, APIs de criptomoedas  |
+| Bot de Atendimento WhatsApp    | Node.js, Cohere AI, WhatsApp API              |
+| Framework de Detecção de Intenções | Python, scikit-learn, TensorFlow/PyTorch |
+| E-commerce Completo            | C++, ASP Core .NET, SQL Server                |
+| API de Autenticação Segura     | Node.js, Express, Passport.js, JWT            |
+
+---
+
+## Conclusão
+
+Meus projetos refletem uma combinação de habilidades em backend, IA e segurança. Cada solução foi pensada para resolver problemas reais, seja na automação de atendimento, visualização de dados ou construção de sistemas seguros e escaláveis.
+
+Se desejar adicionar links para repositórios, demos ou mais detalhes técnicos, fique à vontade para entrar em contato!
+
+---
+
+**Atenciosamente,**  
+Marcos Gomes
