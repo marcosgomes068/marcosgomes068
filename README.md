@@ -1,61 +1,58 @@
-# 👾 Marcos Gabriel | @marcosgomes068
+<h1 align="center">Olá, eu sou o Marcos 👨‍💻</h1>
 
-🎮 Desenvolvedor em constante evolução, focado em construir soluções web inteligentes, rápidas e funcionais.  
-💻 Apaixonado por automação, dados, interfaces modernas e inteligência artificial.  
-🚀 Dominando fases com Python, JavaScript e IA como meus power-ups preferidos.
-
----
-
-## 🧠 Habilidades (Power-Ups)
-
-- 🐍 **Python** (principal)
-- 🌐 **Flask**, **Node.js**
-- ⚛️ **React**, **Next.js**
-- 🎨 **TailwindCSS**, **CSS3**, **HTML5**
-- ⚡ **JavaScript (ES6+)**
-- 🗃️ **SQLite**, **SQL**
-- 🤖 **Machine Learning**, **IA**, **Scikit-learn**
-- 🔌 **Socket Learning**, **APIs**, **Bots**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAD&width=435&lines=Desenvolvedor+Backend;Amante+de+Machine+Learning;Foco+em+Segurança+da+Informação" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📦 Repositórios em Destaque
+### 🚀 Sobre mim
 
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| [`dashboard-criptos`](https://github.com/marcosgomes068/dashboard-criptos) | Dashboard com cotação de criptomoedas em tempo real. | HTML, JS, API |
-| [`classificador`](https://github.com/marcosgomes068/classificador) | Modelo de classificação com Machine Learning. | Python, Scikit-learn |
-| [`detec`](https://github.com/marcosgomes068/detec) | Sistema de detecção com IA e interface leve. | Python |
-| [`botwtspp`](https://github.com/marcosgomes068/botwtspp) | Bot de atendimento via WhatsApp com automação. | HTML, JS |
-| [`menuatom`](https://github.com/marcosgomes068/menuatom) | Sistema de cardápio digital personalizável. | TypeScript, React, Tailwind |
-| [`ecommerce-ASP.NET-core`](https://github.com/marcosgomes068/ecommerce-ASP.NET-core) | Loja com carrinho, login e painel admin. | ASP.NET Core, SQLite |
-| [`appreact`](https://github.com/marcosgomes068/appreact) | App front-end moderno com React. | React, Tailwind |
+Sou apaixonado por tecnologia, desenvolvimento backend e segurança da informação.  
+Gosto de criar soluções que combinam automação, inteligência de dados e boas práticas de arquitetura de software.
 
-Veja mais em [github.com/marcosgomes068?tab=repositories](https://github.com/marcosgomes068?tab=repositories)
+Atualmente, estou desenvolvendo projetos com:
+- **Python**, **Node.js**, **Flask**, **Express**
+- **scikit-learn**, **Dash**, **SQLAlchemy**
+- **Nmap**, **Burp Suite**, **testes ofensivos**
+- **TypeScript**, **React**, **Flask**
 
 ---
 
-## 🏆 Conquistas Desbloqueadas
+### 🧰 Tecnologias e Ferramentas
 
-- ✅ **CRUD completo com Flask e SQLite**
-- ✅ **Bot inteligente no WhatsApp**
-- ✅ **Dashboard cripto em tempo real**
-- ✅ **Cardápio digital com envio por WhatsApp**
-- ✅ **Classificador com Machine Learning**
-- ✅ **E-commerce completo com ASP.NET Core**
-- ✅ **Interface moderna com Tailwind e Next.js**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,nodejs,ts,flask,git,linux,mongodb,sqlite,react,nmap&theme=light" />
+</p>
 
 ---
 
-## 🤝 Vamos Colaborar?
+### 📊 GitHub Stats
 
-📬 Me chama para qualquer missão dev:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gomesgabriel068)
-- 📧 marcosgabrielgomes105@gmail.com
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosgomes068&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomes068&layout=compact&theme=radical" />
+</div>
 
 ---
 
-> _"Não importa quantos bugs apareçam, sempre há um novo nível pra alcançar."_  
-> — **SuperDevBros**
+### 🌎 Conecte-se comigo
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Gomes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visualizar-00ffad?style=for-the-badge&logo=github)](https://github.com/marcosgomes068)
+
+---
+
+### 🎮 3D Animado (fun)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### ☕ Café + Código sempre
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
+</p>
