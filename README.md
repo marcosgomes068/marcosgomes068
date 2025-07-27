@@ -12,7 +12,6 @@
 Comecei na programação criando **mods para Minecraft**, aprendendo na prática como modificar mundos e adicionar novos itens com Java e scripts personalizados.  
 Com o tempo, evoluí para projetos web, automações, IA e construção de sistemas completos.
 
-Hoje sou um desenvolvedor full stack que une tecnologia moderna com foco em soluções reais — tanto no backend quanto no frontend.
 
 ---
 
