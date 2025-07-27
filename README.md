@@ -88,7 +88,7 @@ Com o tempo, evoluí para projetos web, automações, IA e construção de siste
 ## 📫 Contato
 
 - 📧 Email: **marcosgabrielgomes105@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](www.linkedin.com/in/gomesgabriel068)  
+- 💼 LinkedIn: [www.linkedin.com/in/gomesgabriel068](www.linkedin.com/in/gomesgabriel068)  
 
 ---
 
