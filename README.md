@@ -9,9 +9,10 @@
 
 ## 🍄 Sobre mim
 
-Sou um desenvolvedor full stack que gosta de transformar ideias em projetos funcionais.  
-Trabalho com backend, frontend, automações e bots com inteligência artificial.  
-Gosto de aprender como o Mario: pulando obstáculos e sempre indo para o próximo nível 🚀
+Comecei na programação criando **mods para Minecraft**, aprendendo na prática como modificar mundos e adicionar novos itens com Java e scripts personalizados.  
+Com o tempo, evoluí para projetos web, automações, IA e construção de sistemas completos.
+
+Hoje sou um desenvolvedor full stack que une tecnologia moderna com foco em soluções reais — tanto no backend quanto no frontend.
 
 ---
 
@@ -37,17 +38,16 @@ Gosto de aprender como o Mario: pulando obstáculos e sempre indo para o próxim
 🧩 ASP.NET Core MVC + SQLite  
 - Cadastro/login  
 - Área admin  
-- Carrinho  
-- Interface responsiva  
-![ASP.NET Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg)
+- Carrinho de compras  
+- Layout responsivo  
 
 ---
 
-### 🧪 `ecommerce-frasco-simples`
+### 🧪 `ecommerce-flask-simples`
 🧪 Flask + SQLAlchemy + Bootstrap  
 - Backend leve com Python  
 - Gerenciamento de produtos  
-- Layout responsivo e funcional  
+- Layout simples e funcional  
 
 ---
 
