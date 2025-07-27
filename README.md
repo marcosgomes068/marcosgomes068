@@ -87,9 +87,8 @@ Com o tempo, evoluí para projetos web, automações, IA e construção de siste
 
 ## 📫 Contato
 
-- 📧 Email: **seuemail@exemplo.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-- 🌐 Portfólio: [seuportfólio.com](https://seuportfólio.com)
+- 📧 Email: **marcosgabrielgomes105@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/seuperfil](www.linkedin.com/in/gomesgabriel068)  
 
 ---
 
