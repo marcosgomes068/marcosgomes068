@@ -1,43 +1,76 @@
-# 👋 Olá, eu sou Marcos Gomes!
+<h1 align="center">⚡ Marcos Gabriel</h1>
+<h3 align="center">Desenvolvedor Full Stack focado em automação, web moderna e IA aplicada</h3>
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de software e soluções criativas.
-
----
-
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor Full Stack
-- 📚 Sempre aprendendo novas tecnologias
-- 🌱 Focado em projetos de inovação
-- 🎯 Interesses: Web, Mobile, IA, Open Source
+<p align="center">
+  <img src="https://media.giphy.com/media/f9YhH0zTnR1aOz0aPt/giphy.gif" width="100%" alt="Cyberpunk bar background" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 👋 Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Sou apaixonado por construir soluções que resolvem problemas reais com código.  
+Gosto de unir automação, inteligência artificial e interfaces modernas em projetos úteis — simples ou complexos.
+
+Atualmente venho desenvolvendo sistemas web, bots de atendimento e dashboards em tempo real.
 
 ---
 
-## 📈 Estatísticas GitHub
+## 💼 Principais Projetos
 
-![Marcos Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosgomes068&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomes068&layout=compact&theme=dracula)
+### 🛒 comércio-eletrônico-ASP.NET-core
+E-commerce com ASP.NET Core MVC + Entity Framework + SQLite  
+- Login, cadastro e área admin  
+- Carrinho de compras funcional  
+- Layout responsivo
+
+### 🧪 ecommerce-frasco-simples
+E-commerce simples com Flask, SQLAlchemy e Bootstrap  
+- Backend leve em Python  
+- Controle de produtos  
+- Interface funcional e limpa
+
+### 🏢 site-empresa-next-tailwind
+Site institucional moderno para empresa local  
+- Next.js + TailwindCSS  
+- Responsivo, rápido e com foco em SEO
+
+### 📈 dashboard-cripto-py
+Dashboard de criptomoedas com Python  
+- Dados em tempo real via APIs  
+- Gráficos dinâmicos  
+- Interface leve com HTML
+
+### 🤖 bot-pedidos-whatsapp-cohere
+Bot de pedidos inteligente no WhatsApp  
+- Node.js + Cohere AI  
+- Compreende linguagem natural  
+- Automatiza pedidos e interações com clientes
 
 ---
 
-## 📫 Contato
+## ⚙️ Tecnologias que uso
 
-- Email: marcosgomes068@gmail.com
-- LinkedIn: [linkedin.com/in/marcosgomes068](https://linkedin.com/in/marcosgomes068)
+| Categoria         | Ferramentas & Tecnologias                           |
+|------------------|------------------------------------------------------|
+| 💻 Linguagens     | Python, C#, JavaScript                              |
+| 🌐 Backend        | ASP.NET Core, Node.js (Express), Flask              |
+| 🎨 Frontend       | React, Next.js, TailwindCSS, HTML/CSS               |
+| 🧠 IA & Bots      | Cohere AI, automações com linguagem natural         |
+| 🗃️ Bancos de dados | SQLite, PostgreSQL, SQL Server                     |
 
 ---
 
-<div align="center">
-  <strong>Obrigado por visitar meu perfil! 🚀</strong>
-</div>
+## 📫 Como me encontrar
+
+- Email: **seuemail@exemplo.com**  
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+- Portfólio (opcional): [seuportfólio.com](https://seuportfólio.com)
+
+---
+
+<p align="center"><i>“Código é a minha forma de moldar o mundo.”</i></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YOw8G1Wz4aDwz0tNQC/giphy.gif" width="80px" />
+</p>
